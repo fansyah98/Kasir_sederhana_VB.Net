@@ -1,0 +1,24 @@
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\bin\Debug\Pertemuan5a.exe.config
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\bin\Debug\Pertemuan5a.exe
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\bin\Debug\Pertemuan5a.pdb
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\bin\Debug\Pertemuan5a.xml
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.vbprojAssemblyReference.cache
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.Form1.resources
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.Resources.resources
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.vbproj.GenerateResource.cache
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.vbproj.CoreCompileInputs.cache
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.exe
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.xml
+D:\2021\semester5\ti1\Fansyah Dwi Krisnady\Visual Basic\Pertemuan5a\obj\Debug\Pertemuan5a.pdb
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\bin\Debug\Pertemuan5a.exe.config
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\bin\Debug\Pertemuan5a.exe
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\bin\Debug\Pertemuan5a.pdb
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\bin\Debug\Pertemuan5a.xml
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.vbproj.AssemblyReference.cache
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.Form1.resources
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.Resources.resources
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.vbproj.GenerateResource.cache
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.vbproj.CoreCompileInputs.cache
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.exe
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.xml
+D:\Kuliah\ST 5\Visual basic\latihan_praktikum\Pertemuan5\obj\Debug\Pertemuan5a.pdb
